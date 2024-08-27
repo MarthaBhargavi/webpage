@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&family=Whisper&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Kalnia+Glaze:wght@100..700&family=Whisper&display=swap');
+
+body { 
+    
+    background-image: url("./3musicimage.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-image: url("./2musicimage.jpeg");
+    background-position: top right; */
+    
+
+}
+header{
+    font-size: 70px;
+    text-align: center;
+    font-family: Kalnia Glaze;
+    text-shadow: 10px 10px rgb(170, 94, 170);
+}
+nav{
+    text-align: right;
+    font-size: 45px;
+    font-family: Whisper;
+    font-weight: 800px;
+    color: blueviolet;
+}
+p{
+    text-align: center;
+    font-size:30px ;
+    font-family:Great Vibes;
+    color: red;
+    font-weight: 800px;
+    
+}
+
+/* span{
+    text-align: right;
+} */
+   
